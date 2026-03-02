@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [WebData Custom Shipping Methods for WooCommerce]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [WebData Custom Shipping Methods for WooCommerce]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and Custom Shipping Methods for WooCommerce by WebData.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and Custom Shipping Methods for WooCommerce by WebData.
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-shipping-pro
  * Domain Path:     /languages
  * Version:         0.1.0
